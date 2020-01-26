@@ -18,7 +18,8 @@ examples. Additions are welcomed.
 # Remote User Section
 
 Lets try to add some code sample
-```#include<stdio.h>
+```
+  #include<stdio.h>
   #include<stdlib.h>
 
   int main()
