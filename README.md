@@ -1,4 +1,4 @@
-# 326 Code Examples Workshop 2: Git from clone2
+# 326 Code Examples Workshop 2: Git from clone1
 
 These code examples are based off the current version (Fall 2019) of
 the course. The content mostly correspond to the chapters in the book
